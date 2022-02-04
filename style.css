@@ -27,3 +27,8 @@ button{
   background: #FFF;
   border:solid 1px black;
 }
+@media screen and (max-width: 600px) {
+  .pai,button,.link {
+    width: 100%; 
+  }
+}
