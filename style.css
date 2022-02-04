@@ -1,0 +1,29 @@
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height:60vh ;
+}
+
+.pai{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:50% ;
+  height:400px ;
+  background:#B9F9D2;
+  border:solid 2px black;
+  border-radius: 5%;
+  box-shadow: 2px 4px 6px black;
+}
+button{
+  width: 100%;
+}
+
+.link{
+  width:100% ;
+  height:30px ;
+  background: #FFF;
+  border:solid 1px black;
+}
